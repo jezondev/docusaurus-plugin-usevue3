@@ -1,13 +1,13 @@
 {
   "name": "docusaurus-plugin-usevue3",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "docusaurus vue3",
   "main": "dist/usevue.cjs.js",
   "scripts": {
     "build": "rollup --config"
   },
   "keywords": ["docusaurus","docusaurus-plugin","vue"],
-  "author": "lsh",
+  "author": "jezon",
   "license": "ISC",
   "devDependencies": {
     "rollup": "^2.58.0",
